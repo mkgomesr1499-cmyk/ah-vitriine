@@ -1,23 +1,35 @@
 {
   "source": "Canal Ah_vitriine no WhatsApp",
   "checkedAt": "2026-11-05",
-  "status": "Imagens ainda não cadastradas no repositório; não associar às imagens de outros produtos.",
+  "status": "Concluído: quatro imagens originais do canal adicionadas ao catálogo.",
   "products": [
     {
       "name": "Camisa social masculina gola padre",
-      "url": "https://s.shopee.com.br/7AekPkJdVt"
+      "url": "https://s.shopee.com.br/7AekPkJdVt",
+      "cat": "Masculino",
+      "image": "camisa-gola-padre.jpg",
+      "desc": "Camisa rosa de manga curta e gola padre."
     },
     {
       "name": "Camisas masculinas gola mandarim",
-      "url": "https://s.shopee.com.br/4B18rCbcKc"
+      "url": "https://s.shopee.com.br/4B18rCbcKc",
+      "cat": "Masculino",
+      "image": "camisas-gola-mandarim.jpg",
+      "desc": "Camisas de manga curta com gola mandarim."
     },
     {
       "name": "Slip on masculino",
-      "url": "https://s.shopee.com.br/11477LNQ9k"
+      "url": "https://s.shopee.com.br/11477LNQ9k",
+      "cat": "Calçados",
+      "image": "slip-on-masculino.jpg",
+      "desc": "Slip on masculino marrom para compor o visual casual."
     },
     {
       "name": "Mocassim feminino preto",
-      "url": "https://s.shopee.com.br/7puRJC6dj4"
+      "url": "https://s.shopee.com.br/7puRJC6dj4",
+      "cat": "Calçados",
+      "image": "mocassim-feminino.jpg",
+      "desc": "Mocassim feminino preto com sola tratorada."
     }
   ]
 }
